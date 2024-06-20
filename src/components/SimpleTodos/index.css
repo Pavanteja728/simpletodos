@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.bgCont {
+  background-color: #ffc2a0;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.cardCont {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  border-radius: 10px;
+  height: 100vh;
+}
+
+.head {
+  font-size: 40px;
+  font-family: 'Roboto';
+  color: #ff8542;
+}
